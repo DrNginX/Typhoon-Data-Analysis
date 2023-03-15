@@ -105,4 +105,4 @@ The Model generates the Prediction as according to training data.
 After then I just check the accuracy of my model.
 Hence Project is END
 
-Thanking You
+Thanking You.
