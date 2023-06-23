@@ -85,7 +85,7 @@ We Done correlation and find relationship inbetween the elements of the sample d
 
 So this the overall correlation chart of the sample dataset. After checking the relationship between each element let's visualized it.
 
-## Visualization
+## Visualization Unit
 In Visualization section of the project I use multiple Visualizaition chart to understand more clearly what the correlation is saying?
 
 I use statistically Visualization modules well known as Seaborn and performing various operation among all I use Matplotlib
@@ -106,7 +106,7 @@ In seaborn we use the Lineplot and barplot to visualize the things and atlast we
 
 This all about of data Visualization unit.
 
-## Machine Learning Section
+## Machine Learning Unit
 At the end we perform some machine learning algorithm for the prediction,
 
 So in machine Learning Deployment unit we use scikit Learn Module to perform the ML operations
@@ -126,7 +126,7 @@ train our data and this trained data we have to fit on the Mahine Learning model
 So to load the model we use DecisionTreeClassifier, and then we fit the data inside it Train data as well as test data and start making 
 prediction with them.
 
-## Prediction 
+## Prediction Unit
 So we perform two type of prediction with the help of model
 
 1. we predict the central pressure of Typhoon by giving the three attribute to ML model which are the following
