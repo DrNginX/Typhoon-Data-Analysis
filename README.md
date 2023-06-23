@@ -178,9 +178,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contact Information
-Email :- shaktitripathi54@gmail.com
-
 ## Acknowledgment
 I would like to thanks kaggle.com for providing me the valuable dataset which is used inside the project.
 Without  the assistance and contributions of these individuals and organizations, this project would not have been 
