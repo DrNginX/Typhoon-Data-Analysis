@@ -13,6 +13,7 @@ Idai in 2019, which killed 1,303 people. (as according to 'WIKIPEDIA)
 
 In this project I have done a complete analysis of typhoon and I also predict central Pressure and Grade of Typhoo.
 
+# Analysis Process steps
 In this Project I have done the analysis on Typhoon data set where I have done: - 
 
 pre-process the data
@@ -34,6 +35,7 @@ the Date of the typhoon is in wrong format so, I convert it into right format. T
 pre-processing of it. After ensuring that Pre-Processing state of sample data is done successfully than we took sample data in further
 stage which is data correlation.
 
+# Terms and their meaning
 Before starting the data correlation portion few thinds to understand
 
 'Lac' == 'Latitude of the Center'
@@ -57,7 +59,7 @@ Before starting the data correlation portion few thinds to understand
 
 'tsr30' == 'The shortest radius of 30kt winds or greater'
  
- Data Correlation Unit :-
+ # Data Correlation Unit
 
 We Done correlation and find relationship inbetween the elements of the sample dataset
  the Correlation was in the following :-
@@ -83,6 +85,7 @@ We Done correlation and find relationship inbetween the elements of the sample d
 
 So this the overall correlation chart of the sample dataset. After checking the relationship between each element let's visualized it.
 
+# Visualization
 In Visualization section of the project I use multiple Visualizaition chart to understand more clearly what the correlation is saying?
 
 I use statistically Visualization modules well known as Seaborn and performing various operation among all I use Matplotlib
@@ -103,6 +106,7 @@ In seaborn we use the Lineplot and barplot to visualize the things and atlast we
 
 This all about of data Visualization unit.
 
+# Machine Learning Section
 At the end we perform some machine learning algorithm for the prediction,
 
 So in machine Learning Deployment unit we use scikit Learn Module to perform the ML operations
@@ -122,6 +126,7 @@ train our data and this trained data we have to fit on the Mahine Learning model
 So to load the model we use DecisionTreeClassifier, and then we fit the data inside it Train data as well as test data and start making 
 prediction with them.
 
+# Prediction 
 So we perform two type of prediction with the help of model
 
 1. we predict the central pressure of Typhoon by giving the three attribute to ML model which are the following
