@@ -181,7 +181,7 @@ SOFTWARE.
 ## Contact Information
 Email :- shaktitripathi54@gmail.com
 
-## Acknowledgement
+## Acknowledgment
 I would like to thanks kaggle.com for providing me the valuable dataset which is used inside the project.
 Without  the assistance and contributions of these individuals and organizations, this project would not have been 
 possible. I am truly grateful for their involvement and for making this journey a rewarding and enriching experience.
