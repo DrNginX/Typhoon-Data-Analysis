@@ -13,7 +13,7 @@ Idai in 2019, which killed 1,303 people. (as according to 'WIKIPEDIA)
 
 In this project I have done a complete analysis of typhoon and I also predict central Pressure and Grade of Typhoo.
 
-# Analysis Process steps
+## Analysis Process steps
 In this Project I have done the analysis on Typhoon data set where I have done: - 
 
 pre-process the data
